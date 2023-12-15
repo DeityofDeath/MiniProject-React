@@ -1,0 +1,16 @@
+.product-page-container {
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 18px;
+    box-shadow: 0 6px 35px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    padding: 20px;
+  }
+  
+  #product-page-image {
+    width: 380px;
+    height: 380px;
+    filter: drop-shadow(8px 6px 20px #000000);
+  }
+  

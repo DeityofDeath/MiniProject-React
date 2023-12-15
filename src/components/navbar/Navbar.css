@@ -1,0 +1,24 @@
+.nav {
+    background: rgba(150, 20, 170, 0.2);
+    border-radius: 20px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 2px solid rgba(184, 75, 201, 0.5);
+    padding: 24px;
+  }
+  
+  h1{
+    font-weight: bold;
+    color: #3c96a4;
+    font-size: 4rem;
+    letter-spacing: 1.8px;
+  }
+  h2 {
+    font-weight: bold;
+    font-size: 2.8rem;
+    letter-spacing: 1.8px;
+    color: #333;
+    margin-bottom: 12px;
+  }
+  
